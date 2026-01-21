@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "28b67f95aa2add9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "adbcacd83cc504fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89620566e1f7b0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warband.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warband"
+            }
+          },
+          {
+            "id": "5c00ecb5aa15a3da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Notable Persons/Ulksip.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ulksip"
+            }
+          },
+          {
+            "id": "c9871507c8dd2d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Notable Persons/The Seers/The Dreaming Seer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dreaming Seer"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2157e9871c665ccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d3e2cd5aef1e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2026-01-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-20"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92548ad5626fc596",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d979e09acc1a8ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5be2e36a6f4fccd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf927a717ac332ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d014236c720d15cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c4ba1ddfaaf63de",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f7613cead4b237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "566119611eb5ad4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Warband.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Warband"
+            }
+          },
+          {
+            "id": "fd1e699d5156664b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Warband.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Warband"
+            }
+          },
+          {
+            "id": "b7f382685af29c58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6495d19c24767049",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f09f7687b019d69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Warband.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Warband"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "floating": {
+    "id": "be9cec5eeaef65f5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cc3a78ca7d50d977",
+        "type": "window",
+        "children": [
+          {
+            "id": "acb94603fb0017fd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f6bd2e97d8268b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "-/Mythic Bastionland.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mythic Bastionland"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 943,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5be2e36a6f4fccd0",
+  "lastOpenFiles": [
+    "Lore/Notable Persons/The Seers/The Dying Seer.md",
+    "Lore/Notable Persons/Brandon.md",
+    "Lore/Notable Persons/Eluna.md",
+    "Lore/Locations/The Lands of Xerros/Temporal Unknowns/Corpse Plateau.md",
+    "Lore/Knights/Talon Knight.md",
+    "Lore/Knights/Ser Ruan, the Key Knight.md",
+    "Lore/Knights/Ser Kirus, the Gazer Knight.md",
+    "Lore/Knights/Party/Melinda, the Fox Knight.md",
+    "Lore/Knights/Party/Gondol Primulon, the Banner Knight.md",
+    "Lore/Knights/Party/Balin, the Barbed Knight.md",
+    "Lore/Knights/Party/Agravain , the Violet Knight.md",
+    "Media/Knights Wading.png",
+    "Media/Spire.png",
+    "Media/The Ice King.png",
+    "Myths/The Great Arachnid.md",
+    "Myths/The Ice King.md",
+    "Warband.md",
+    "Objectives/Primary Quests.md",
+    "-/Mythic Bastionland.md",
+    "Lore/Worldspace.md",
+    "Session Notes/2026-01-20.md",
+    "Lore/Locations/The Lands of Xerros/Temporal Unknowns",
+    "Lore/Notable Persons/The Seers/The Dreaming Seer.md",
+    "Lore/Notable Persons/The Seers",
+    "Lore/Locations/The Lands of Xerros/Keeps/The Parched Hold.md",
+    "Lore/Locations/The Lands of Xerros/Keeps/The Birch Hold.md",
+    "Lore/Notable Persons/Ulksip.md",
+    "Session Notes",
+    "Lore/Locations/The Lands of Xerros",
+    "Lore/Locations/The Lands of Xerros.md",
+    "Lore/Locations/The Lands of Xerros/Holdings",
+    "Myths",
+    "Untitled.md",
+    "Lore/Notable Persons/Oaksgrave.md",
+    "Lore/Notable Persons/Hugo.md",
+    "Lore/Notable Persons",
+    "Lore/Locations/The Lands of Xerros/Keeps",
+    "Lore/Knights",
+    "Lore/Locations",
+    "Knights Bane.png",
+    "Pasted image 20260120212143.png",
+    "Pasted image 20260120210344.png",
+    "Pasted image 20260120210334.png",
+    "Pasted image 20260120210328.png",
+    "Pasted image 20260120210257.png",
+    "Pasted image 20251228233454.png"
+  ]
+}

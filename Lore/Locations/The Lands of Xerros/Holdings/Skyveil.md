@@ -1,0 +1,1 @@
+The home of [[Ser Ruan, the Key Knight]], seated in [[The Skyveil Castle]]

@@ -1,0 +1,1 @@
+The home of [[The Dying Seer]], a huge mound of corpses.

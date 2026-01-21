@@ -1,0 +1,1 @@
+Currently at [[Corpse Plateau]]

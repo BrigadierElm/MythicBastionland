@@ -1,0 +1,1 @@
+The Ice King is an undying myth, with a seperated soul and body. Only when both are destroyed may the the Ice King finally be killed.

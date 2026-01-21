@@ -1,0 +1,1 @@
+Currently at [[Stars Hollow]]
