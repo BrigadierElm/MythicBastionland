@@ -1,1 +1,4 @@
-Currently at [[Corpse Plateau]]
+From: [[Corpse Plateau]]
+Relations: 
+
+---

@@ -1,1 +1,4 @@
-From [[Edgeglade]]
+From: [[Edgeglade]]
+Relations:
+
+---

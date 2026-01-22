@@ -1,1 +1,4 @@
-Currently at [[Stars Hollow]]
+From: [[Stars Hollow]]
+Relations: 
+
+---

@@ -1,1 +1,4 @@
-The Herald of [[The Great Arachnid]]
+From: [[Edgeglade]] Wilds
+Relations: [[The Great Arachnid]]
+
+---

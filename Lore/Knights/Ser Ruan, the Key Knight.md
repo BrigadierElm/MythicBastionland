@@ -1,1 +1,5 @@
-Seated in [[Skyveil]], in [[The Skyveil Castle]]
+From: [[The Skyveil Castle]] [[Skyveil]]
+Relations: [[Talon Knight]]
+
+---
+

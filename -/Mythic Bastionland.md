@@ -5,11 +5,11 @@
 > Seers know the all, the start and the end.
 > Myths hushed aloud to which truth must abend
 
-  ### Session Counter: [7]
+### Session Counter: [7]
 ---
 # Objectives
-[[Primary Quests]]
-[[Secondary Quests]]
+[[Primary Quest Log]]
+[[Secondary Quest Log]]
 
 ![[Knights Wading.png]]
 # People
