@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Knights/Party/Warband.md",
+                "file": "Mythic Bastionland.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warband"
+              "title": "Mythic Bastionland"
             }
           }
         ],
@@ -232,11 +232,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c9871507c8dd2d79",
+  "active": "5be2e36a6f4fccd0",
   "lastOpenFiles": [
+    "Lore/Knights/Party/Warband.md",
+    "Lore/Worldspace.md",
     "Lore/Knights/Party/Gondol Primulon, the Banner Knight.md",
     "Lore/Knights/Party/Melinda, the Fox Knight.md",
-    "Lore/Knights/Party/Warband.md",
     "Lore/Knights/Ser Kirus, the Gazer Knight.md",
     "Lore/Knights/Ser Ruan, the Key Knight.md",
     "Lore/Knights/Talon Knight.md",
@@ -261,7 +262,6 @@
     "Lore/Locations/The Lands of Xerros/Wild Environs/Blood Moss.md",
     "Lore/Locations/The Lands of Xerros/Wild Environs/Serpent Spine River.md",
     "Lore/Locations/The Lands of Xerros/Holdings/Edgeglade.md",
-    "-/Mythic Bastionland.md",
     "Media/Knights Wading.png",
     "Media/Spire.png",
     "Media/The Ice King.png",
