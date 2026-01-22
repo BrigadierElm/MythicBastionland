@@ -8,16 +8,39 @@
   ### Session Counter: [7]
 ---
 # Objectives
-## [[Primary Quests]]
-## [[Secondary Quests]]
-
-# Party
-## [[Warband]]
-
-# Lore
-## [[Worldspace]]
-## [[Knights]]
-
+[[Primary Quests]]
+[[Secondary Quests]]
+# People
+## Seers
+[[The Dreaming Seer]]
+[[The Dying Seer]]
+## Noble Knights
+[[Agravain , the Violet Knight]]
+[[Balin, the Barbed Knight]]
+[[Gondol Primulon, the Banner Knight]]
+[[Melinda, the Fox Knight]]
+## Knights
+[[Ser Kirus, the Gazer Knight]]
+[[Ser Ruan, the Key Knight]]
+[[Talon Knight]]
+## People of Import
+[[Brandon]]
+[[Eluna]]
+[[Hugo]]
+[[Oaksgrave]]
+[[Ulksip]]
+# Places
+[[Worldspace]]
+# Holdings
+[[Edgeglade]]
+[[Skyveil]]
+[[Stars Hollow]]
+# Keeps
+[[Snow Kings Castle]]
+[[The Birch Hold]]
+[[The Parched Hold]]
+## Temporal  Locations
+[[Corpse Plateau]]
 
 ![[Spire.png]]
 ![[Knights Wading.png]]
