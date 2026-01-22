@@ -10,6 +10,8 @@
 # Objectives
 [[Primary Quests]]
 [[Secondary Quests]]
+
+![[Knights Wading.png]]
 # People
 ## Seers
 [[The Dreaming Seer]]
@@ -29,6 +31,8 @@
 [[Hugo]]
 [[Oaksgrave]]
 [[Ulksip]]
+
+![[Spire.png]]
 # Places
 [[Worldspace]]
 # Holdings
@@ -42,5 +46,5 @@
 ## Temporal  Locations
 [[Corpse Plateau]]
 
-![[Spire.png]]
-![[Knights Wading.png]]
+
+
